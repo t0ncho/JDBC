@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Feb 26 17:58:45 EET 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0144-6eeb-6889-000000ac8990 
+on database directory C:\Users\Mitkov\Documents\workspace\JDBCExample\wombat  with class loader sun.misc.Launcher$AppClassLoader@1ac04e8 
+Loaded from file:/C:/Users/Mitkov/Documents/workspace/JDBCExample/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=C:\Users\Mitkov\Documents\workspace\JDBCExample
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
